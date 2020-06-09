@@ -25,9 +25,9 @@ function increment(num3){
    return num3
 }
 
-function decrement(){
-   num1--
-   return num1
+function decrement(num3){
+   num3--
+   return num3
 }
 
 
