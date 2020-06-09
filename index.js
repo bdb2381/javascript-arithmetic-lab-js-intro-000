@@ -20,9 +20,9 @@ function divide(num1, num2){
   return num1 / num2
 }
 
-function increment(){
-   num1++
-   return num1
+function increment(num3){
+   num3++
+   return num3
 }
 
 function decrement(){
