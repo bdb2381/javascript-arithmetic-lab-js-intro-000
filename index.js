@@ -1,4 +1,4 @@
-var num1 = 1
+var num1 = 10
 var num2 = 3
 
 function add(num1, num2) {
