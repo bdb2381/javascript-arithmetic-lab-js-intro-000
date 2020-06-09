@@ -1,5 +1,6 @@
 var num1 = 10
 var num2 = 3
+var num3 = 3.23345
 
 function add(num1, num2) {
 
@@ -27,4 +28,10 @@ function increment(){
 function decrement(){
    num1--
    return num1
+}
+
+
+function makeInt(num3) {
+  parseInt(num3, 10)
+  return num3
 }
