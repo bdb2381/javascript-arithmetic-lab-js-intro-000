@@ -23,3 +23,8 @@ function increment(){
    num1++
    return num1
 }
+
+function decrement(){
+   num1--
+   return num1
+}
