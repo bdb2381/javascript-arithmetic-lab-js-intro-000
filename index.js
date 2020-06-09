@@ -20,6 +20,6 @@ function divide(num1, num2){
 }
 
 function increment(){
-   num1++;
+   num1++
    return num1
 }
