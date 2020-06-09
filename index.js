@@ -19,6 +19,6 @@ function divide(num1, num2){
   return num1 / num2
 }
 
-function increment(60){
+function increment(){
   return 60++
 }
