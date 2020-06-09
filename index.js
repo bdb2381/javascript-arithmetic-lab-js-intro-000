@@ -32,6 +32,6 @@ function decrement(num3){
 
 
 function makeInt(num3) {
-  
+
   return  parseInt(num3)
 }
