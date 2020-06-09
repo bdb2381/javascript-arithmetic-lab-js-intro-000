@@ -20,5 +20,5 @@ function divide(num1, num2){
 }
 
 function increment(){
-  return 60++
+  return 60++;
 }
