@@ -31,7 +31,7 @@ function decrement(){
 }
 
 
-function makeInt() {
-  var finalNumber = parseInt(4.09, 10)
+function makeInt(numb3) {
+  var finalNumber = parseInt(num3, 10)
   return finalNumber
 }
